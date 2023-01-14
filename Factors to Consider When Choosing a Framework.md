@@ -1,0 +1,22 @@
+- Categories of Criteria:
+	- Ecosystem.
+	- Performance.
+	- Business model and pricing.
+	- Scalability.
+- Frameworks we will discuss:
+	- create-react-app
+	- Next.js
+	- Gatsby.
+	- Blitz.
+	- Redwood.
+	- Remix
+
+- Goal of the course is to help you decide which framework to use in your specific project in your development constraints, and your team, budget and time table.
+
+- Criteria 1 - Ecosystem:
+	- Infrastructure and wide usage are essential to foster growth and support for a framework.
+	- Existing software, CLI tools, PATH requirements, and other infrastructure is part of a framework ecosystem.
+	- How long a framework has been available and how popular it is are important factors to consider.
+	- Great documentation is essential to training a team (or yourself) to work with a framework.
+	- Bug fix frequency and developer support will affect your ability to continue to use a framework.
+	- It is important to consider how easily you can migrate to a new framework if necessary.
